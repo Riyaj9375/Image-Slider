@@ -1,1 +1,1 @@
-# Image-Slider
+# Autoplay Image-Slider
